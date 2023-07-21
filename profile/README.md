@@ -20,7 +20,7 @@ UFU - Patos de Minas, curso Engenharia Eletrônica e de Telecomunicações. Mais
 
 - [Robopatos](https://www.robopatos.cafe/post/tcc-plataforma-rob%C3%B3tica-m%C3%B3vel-modular-e-expans%C3%ADvel-para-pesquisa) possui um resumo sobre o trabalho.
 - Nesta organização, comece por [aqui](https://github.com/SciCoBot/guia-scicobot)
-- Uma descrição mais completa pode ser acessada [aqui](https://repositorio.ufu.br/handle/123456789/34172)
+- Uma descrição mais completa pode ser acessada [aqui](https://repositorio.ufu.br/handle/123456789/34172).
 
 
 
