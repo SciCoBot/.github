@@ -1,12 +1,26 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
+Esta organização tem como objetivo armazenar, organizar e expor conteúdos relacionados ao SciCoBot (ou Scicobot).
 
-**Here are some ideas to get you started:**
+O Scicobot é uma aruitetura robótica para fins científicos, voltada principalmente para uso na Universidade Federal de Uberlândia (UFU), campus Patos de Minas.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O trabalho foi orientado pelo professor [Daniel Costa Ramos](http://www.feelt.ufu.br/pessoas/docentes/daniel-costa-ramos).
+
+Principal diferencial é o suporte a ROS2. 
+
+## Motivação :moneybag: :watch:
+
+Dois gargalos foram identificados: (1) o custo alto das plataformas existentes; (2) o tempo gasto para criar uma nova plataforma, já que pode não ser o foco do trabalho.
+
+## Onde estamos? :world_map: :pushpin:
+
+UFU - Patos de Minas, curso Engenharia Eletrônica e de Telecomunicações. Mais informações [aqui](http://www.prograd.ufu.br/unidades-organizacionais/patos-de-minas-mg).
+
+## Conteúdos :books:
+
+- [Robopatos](https://www.robopatos.cafe/post/tcc-plataforma-rob%C3%B3tica-m%C3%B3vel-modular-e-expans%C3%ADvel-para-pesquisa) possui um resumo sobre o trabalho.
+- Nesta organização, comece por [aqui](https://github.com/SciCoBot/guia-scicobot)
+- Uma descrição mais completa pode ser acessada [aqui](https://repositorio.ufu.br/handle/123456789/34172)
+
+
+
