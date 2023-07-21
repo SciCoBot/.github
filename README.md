@@ -10,7 +10,7 @@ Principal diferencial é o suporte a ROS2.
 
 ## Motivação :moneybag: :watch:
 
-Dois gargalos foram identificados: (1) o custo alto das plataformas existentes; (2) o tempo gasto para criar uma nova plataforma, já ue pode não ser o foco do trabalho.
+Dois gargalos foram identificados: (1) o custo alto das plataformas existentes; (2) o tempo gasto para criar uma nova plataforma, já que pode não ser o foco do trabalho.
 
 ## Onde estamos? :world_map: :pushpin:
 
