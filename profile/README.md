@@ -12,7 +12,7 @@ Principal diferencial é o suporte a ROS2.
 
 Quando um indivíduo precisa desenvolver uma pesquisa (ou trabalho) na área da robótica, é comum a necessidade de um ou mais robôs para testar/validar a proposta. 
 
-Neste contexto, dois gargalos foram identificados: (1) o custo alto das plataformas existentes (principalmente as profissionais); e (2) o tempo gasto para criar uma nova plataforma. Este último é tratado como um problema porque o indivíduo consome tempo considerável ao tentar desenvolvendo uma nova plataforma, consequentemente, sobra menos tempo para ser consumido nas contribuições as quais se pretende atingir.
+Neste contexto, dois gargalos foram identificados: (1) o custo alto das plataformas existentes (principalmente as profissionais); e (2) o tempo gasto para criar uma nova plataforma. Este último é tratado como um problema porque o indivíduo consome tempo considerável ao tentar desenvolvendo uma nova plataforma, consequentemente, sobra menos tempo para ser consumido nas contribuições as quais se pretende atingir, como testar um modelo de controle, mapeamento ou planejamento de caminho.
 
 Pensando nisso, decidimos criar nossa própria plataforma. Para minimizar os gargalos supracitados nos preocupamos em utilizar componentes de hardware mais baratos (gargalo 1) e a arquitetura foi documentada de modo a possibilidar a reprodução e extensão (gargalo 2).
 
