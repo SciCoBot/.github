@@ -1,4 +1,4 @@
-# Olá! 👋
+# Olá! 👋 :robot:
 
 Esta organização tem como objetivo armazenar, organizar e expor conteúdos relacionados ao SciCoBot (ou Scicobot).
 
@@ -18,7 +18,7 @@ Pensando nisso, decidimos criar nossa própria plataforma. Para minimizar os gar
 
 Ainda, como objetivo secundário, temos o uso de Scicobot na educação, como em aulas de robótica.
 
-## Onde estamos? :world_map: :pushpin:
+## Onde estamos? :world_map:
 
 UFU - Patos de Minas, curso Engenharia Eletrônica e de Telecomunicações. Mais informações [aqui](http://www.prograd.ufu.br/unidades-organizacionais/patos-de-minas-mg).
 
