@@ -2,7 +2,7 @@
 
 Esta organização tem como objetivo armazenar, organizar e expor conteúdos relacionados ao SciCoBot (ou Scicobot).
 
-O Scicobot é uma aruitetura robótica para fins científicos, voltada principalmente para uso na Universidade Federal de Uberlândia (UFU), campus Patos de Minas.
+O SciCoBot (SCIence, COffee and roBOT) é uma aruitetura robótica para fins científicos, voltada principalmente para uso na Universidade Federal de Uberlândia (UFU), campus Patos de Minas.
 
 O trabalho foi orientado pelo professor [Daniel Costa Ramos](http://www.feelt.ufu.br/pessoas/docentes/daniel-costa-ramos).
 
